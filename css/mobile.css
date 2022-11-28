@@ -65,20 +65,20 @@
     }
 
     .text-climbing1 {
-        font-size: 2em;
+        font-size: 8vw;
         width: 63vw;
         margin: 20px 0 20px 20px;
 
     }
 
     .text-climbing2 {
-        font-size: 2em;
+         font-size: 8vw;
         width: 20vw;
         margin: 0;
     }
 
     .text-climbing3 {
-        font-size: 2em;
+         font-size: 8vw;
         width: 37vw;
         margin: 20px 0 0 20px;
     }
@@ -229,7 +229,7 @@
         height: 800px;
     }
 
-    .row-for-chekbox {
+    .row-for-checkbox {
         margin: 20px 0 0 0;
         width: auto;
     }
